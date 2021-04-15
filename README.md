@@ -1,5 +1,5 @@
 # hello_world
-Creating a hello-world python program and dokerizing it
+Creating a hello-world python program and dockerizing it
 
 ## Creating a hello-world program
 
