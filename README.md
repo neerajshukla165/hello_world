@@ -42,7 +42,7 @@ Below is the requirements.txt instruction
 flask
 ````
 
-The above structure should look as below:
+The above structure should look as :
 ````
 python_demo
     ├── requirements.txt
@@ -53,7 +53,8 @@ python_demo
 
 Now as we have our Dockerfile ready we are ready to build our Docker image. To build a docker image from Dockerfile use the below command:
 
-````  docker build --tag python_demo .  
+```` 
+docker build --tag python_demo .  
 ````
 
 The docker image is build now. You can see it using "docker images" command
